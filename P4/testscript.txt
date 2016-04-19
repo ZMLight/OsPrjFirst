@@ -1,0 +1,189 @@
+脚本启动于 2016年04月11日 星期一 22时18分25秒
+]0;zhaoming@Light: ~/software/OsPrjzhaoming@Light:~/software/OsPrj$ adb shell
+root@generic:/ # cd dtat   atat /mic sc
+
+root@generic:/data/misc # ./BBC 2 4 41 10
+
+Cooks [2], Cashiers [4], Customers [41]
+Begin run.
+Customer[21] come.
+Customer[29] come.
+Casher[4] accepts an order.
+Casher[3] accepts an order.
+Casher[3] take a burger to customer.
+Customer[32] come.
+Customer[35] come.
+Casher[2] accepts an order.
+Casher[1] accepts an order.
+Customer[10] come.
+Customer[22] come.
+Casher[3] accepts an order.
+Customer[23] come.
+Customer[26] come.
+Customer[34] come.
+Cook[1] make a burger.
+Customer[41] come.
+Customer[7] come.
+Customer[12] come.
+Customer[27] come.
+Customer[9] come.
+Customer[8] come.
+Customer[14] come.
+Customer[28] come.
+Customer[11] come.
+Customer[13] come.
+Customer[6] come.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Customer[37] come.
+Customer[36] come.
+Customer[33] come.
+Customer[31] come.
+Customer[16] come.
+Customer[5] come.
+Customer[2] come.
+Customer[38] come.
+Customer[39] come.
+Customer[40] come.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Customer[20] come.
+Customer[30] come.
+Customer[19] come.
+Customer[1] come.
+Customer[25] come.
+Customer[17] come.
+Customer[24] come.
+Customer[18] come.
+Customer[15] come.
+Customer[4] come.
+Customer[3] come.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[1] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Casher[2] accepts an order.
+Cook[2] make a burger.
+Casher[2] take a burger to customer.
+Cook[1] make a burger.
+Casher[3] take a burger to customer.
+Cook[1] make a burger.
+Casher[4] take a burger to customer.
+Cook[2] make a burger.
+Casher[1] take a burger to customer.
+Cook[1] make a burger.
+Cook[2] make a burger.
+Cook[1] make a burger.
+Cook[1] make a burger.
+Cook[2] make a burger.
+Cook[1] make a burger.
+Cook[1] make a burger.
+Cook[2] make a burger.
+Cook[1] make a burger.
+Cook[2] make a burger.
+^C
+130|root@generic:/data/misc # exit
+
+]0;zhaoming@Light: ~/software/OsPrjzhaoming@Light:~/software/OsPrj$ cat typescript[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+exit
+
+脚本完成，于 2016年04月11日 星期一 22时23分21秒
